@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body {
+    margin: 5px;
+    font-family: "Roboto", sans-serif;
+}
+
+.mobile {
+    width: 320px;
+}
+
+.principal {
+    background-color: #FFFFFF;
+}
+
+.horario {
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.icones {
+    height: 20px;
+}
+
+.icones-cel span {
+    font-size: 16px;
+}
+
+.entrega {
+    margin-top: 20px;
+    height: 50px;
+}
+
+.seta {
+    font-size: 23px;
+    font-weight: 500;
+    color: #d96367;
+}
+
+.endereco-entrega {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    padding-left: 65px;
+    margin-top: 5px;
+}
+
+.endereco-numero {
+    margin-top: 7px;
+    background-color: #f2f2f4;
+    font-size: 15px;
+    opacity: 50%;
+    height: 37px;
+    width: 335px;
+    display: inline-block;
+    padding: 25px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.lupa {
+    color: #CD4352;
+    font-weight: 500;
+}
+
+.endereco {
+    padding-left: 11px;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
+
+.icone-localizacao {
+    margin-top: 30px;
+    padding-left: 15px;
+}
+
+.icones-inf {
+    opacity: 40%;
+}
+
+.localizacao {
+    padding-left: 8px;
+}
+
+.local {
+    font-size: 17px;
+}
+
+.more-vert {
+    color: #CD4352;
+}
+
+.local-detalhes {
+    opacity: 40%;
+}
+
+.local-detalhes2 {
+    opacity: 40%;
+    font-size: 14px;
+}
