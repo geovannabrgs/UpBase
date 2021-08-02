@@ -12,5 +12,6 @@
 
 ### Para visualização do projeto:
  - Clone the project.
-
 ```git clone https://github.com/geovannabrgs/UpBase.git```
+
+ - Abrir o arquivo "index.html" com um browser.
