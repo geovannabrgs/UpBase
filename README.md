@@ -10,7 +10,7 @@
  - Boostrap
 
 ### Features:
- - Tela 6, conforme enviado por e-mail.
+ - Tela 6.
 
 ### Para visualização do projeto:
  - Clone the project.
