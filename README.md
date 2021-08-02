@@ -1,6 +1,8 @@
 # UpBase
 ## Teste para estagiário front-end da empresa UpBase.
 
+### Objetivo:
+ - Recriar tela específica do Ifood, que foi enviada por via e-mail. 
 
 ### Tecnologias que foram utilizadas no projeto:
  - Html
