@@ -1,2 +1,2 @@
 # UpBase
-Teste de estagiário front-end da empresa UpBase
+Teste para estagiário front-end da empresa UpBase
