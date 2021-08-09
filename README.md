@@ -1,5 +1,5 @@
 # UpBase
-## Teste para estagiário front-end da empresa UpBase.
+## Teste da empresa UpBase.
 
 ### Objetivo:
  - Recriar tela específica do Ifood, que foi enviada por via e-mail. 
